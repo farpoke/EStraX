@@ -87,4 +87,7 @@ present in this repository. This will run the script ESX/scripts/gen-makefile.py
 It will then invoke make to run this Makefile. This will produce build output in the directory ESX/build and, if
 successful, create an executable named esx which is the ESX model executable.
 
+## HY-ESX
+
+This repository also contains a branch "hy-esx" which contains code for the so called HY-ESX model that reads HYSPLIT output data for ESX.
 
