@@ -1,0 +1,10 @@
+*.swp
+*.o
+*.pyc
+*.pyo
+__pycache__
+.idea
+*.mod
+ESX/esx
+ESX/esx.exe
+ESX/Makefile
