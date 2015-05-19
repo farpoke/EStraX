@@ -3,7 +3,7 @@
 This repository contains python code to use the ESX atmospheric model, as well
 as code to manage atmospheric data, compute trajectories and plot results.
 
-For the ESX model code please contact David Simpson at Chalmers.
+For the ESX model code please contact David Simpson at Chalmers (david.simpson@chalmers.se).
 
 ## Files
 
